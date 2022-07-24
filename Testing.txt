@@ -1,0 +1,2 @@
+What is Testing
+Testing is the process of determining how effective something is.
