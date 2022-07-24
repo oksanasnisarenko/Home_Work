@@ -1,4 +1,9 @@
 What is Testing
 Testing is the process of determining how effective something is.
 What is Software Testing
-Software testing is a process, to evaluate the functionality of a software application with an intent to find whether the developed software met the specified requirements or not and to identify the defects to ensure that the product is defect-free in order to produce a quality product.
+Software testing is a process, to evaluate the functionality of a software application
+ with an intent to find whether the developed software met the specified requirements or 
+not and to identify the defects to ensure that the product is defect-free in order to produce 
+a quality product.
+
+Definition of Software Testing in Software Engineering
